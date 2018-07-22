@@ -1,0 +1,41 @@
+.form{
+	padding: 150px  550px;
+	margin: 0 auto 30px;
+	background-image:url("pexels-photo-261763.jpeg");
+}
+.signup{
+	border: 1px solid;
+	padding: 30px;
+	border-radius: 25px;
+}
+
+.tab-group{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	padding: 10px;
+	float: left;
+	font-size: 20px;
+}
+.tab-group li{
+	list-style: none;
+	margin: auto;
+	float: left;
+    padding: 10px;
+}
+.tab-group a{
+	margin: 0px;
+	float: left;
+	text-decoration: none;
+	text-transform: capitalize;
+	background: ;
+	color: black;
+}
+fieldset {
+  border: none;
+}
+.tab a:hover{
+	color:white;
+	display: inline-block;
+}
+
